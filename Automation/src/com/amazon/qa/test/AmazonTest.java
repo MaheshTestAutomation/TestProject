@@ -18,7 +18,7 @@ import org.testng.annotations.Test;
 public class AmazonTest {
 
 	
-	WebDriver driver
+	WebDriver driver;
     WebElement menu;
     WebElement submenu;
     WebElement list;
