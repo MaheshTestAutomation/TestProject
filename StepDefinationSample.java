@@ -8,8 +8,7 @@ for(String str : dataList)
 {
 	System.out.println(str);
 }
-  List<String> list1 = FunctionsLibrary.convertDataTableToList(table);
-System.out.println(list1);  
+   
   
     //2nd sheet data
     
@@ -22,5 +21,4 @@ for(String str : dataList)
 {
 	System.out.println(str);
 }
-  List<String> list1 = FunctionsLibrary.convertDataTableToList(table);
-System.out.println(list1);  
+ 
