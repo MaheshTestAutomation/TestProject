@@ -57,9 +57,9 @@ public class ExcelDataToDataTable extends Transformer<DataTable> {
 	
 		
 public String getfilePath(String path) {
-	 File file = new File("OmnitureTestData.xlsx");
+	// File file = new File("TestData.xlsx");
 	 
-return file.toString();
+//return file.toString();
 	
 	}
 
